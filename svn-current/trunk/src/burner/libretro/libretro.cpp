@@ -6,7 +6,7 @@
 
 #define FBA_VERSION "v0.2.97.29" // Sept 16, 2013 (SVN)
 
-#define CORE_OPTION_NAME "fbalpha2012_cps3"
+#define CORE_OPTION_NAME "fbalpha2012_cps1"
 
 #ifdef WII_VM
 #include <unistd.h> // sleep
